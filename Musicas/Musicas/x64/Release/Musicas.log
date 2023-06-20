@@ -1,0 +1,215 @@
+﻿  Artista.cpp
+  ArtistaManejadorDatos.cpp
+  ArtistaManejadorDatosArchivo.cpp
+  ArtistaManejadorDatosEstaticos.cpp
+  Cancion.cpp
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Cancion.cpp(63,23): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+  CancionManejadorDatos.cpp
+  CancionManejadorDatosArchivo.cpp
+  CancionManejadorDatosEstaticos.cpp
+  DataManager.cpp
+  PlayList.cpp
+  Principal.cpp
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(5,10): error C2084: la función 'Artista::Artista(std::string,std::string,Genero)' ya tiene un cuerpo
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(5): message : vea la definición anterior de '{ctor}'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(11,10): error C2084: la función 'Artista::Artista(std::string,std::string)' ya tiene un cuerpo
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(11): message : vea la definición anterior de '{ctor}'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(16,10): error C2084: la función 'Artista::Artista(std::string,std::string,std::string)' ya tiene un cuerpo
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(16): message : vea la definición anterior de '{ctor}'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(29,10): error C2084: la función 'Artista::Artista(void)' ya tiene un cuerpo
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(29): message : vea la definición anterior de '{ctor}'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(36,18): error C2084: la función 'std::string Artista::getNombre(void)' ya tiene un cuerpo
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(36): message : vea la definición anterior de 'getNombre'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(41,17): error C2084: la función 'std::string Artista::getProcedencia(void)' ya tiene un cuerpo
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(41): message : vea la definición anterior de 'getProcedencia'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(45,17): error C2084: la función 'Genero Artista::getGenero(void)' ya tiene un cuerpo
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(45): message : vea la definición anterior de 'getGenero'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(50,15): error C2084: la función 'void Artista::verInfo(void)' ya tiene un cuerpo
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(50): message : vea la definición anterior de 'verInfo'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(56,15): error C2084: la función 'void Artista::setNombre(std::string)' ya tiene un cuerpo
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(56): message : vea la definición anterior de 'setNombre'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(60,15): error C2084: la función 'void Artista::setProcedencia(std::string)' ya tiene un cuerpo
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(60): message : vea la definición anterior de 'setProcedencia'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(63,17): error C2084: la función 'std::string Artista::vergenero(void)' ya tiene un cuerpo
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(63): message : vea la definición anterior de 'vergenero'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\ArtistaManejadorDatosArchivo.cpp(39,1): error C2264: 'Artista::Artista': error en la definición o declaración de función; no se ha llamado a la función
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(5,10): error C2084: la función 'Artista::Artista(std::string,std::string,Genero)' ya tiene un cuerpo
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(5): message : vea la definición anterior de '{ctor}'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(11,10): error C2084: la función 'Artista::Artista(std::string,std::string)' ya tiene un cuerpo
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(11): message : vea la definición anterior de '{ctor}'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(16,10): error C2084: la función 'Artista::Artista(std::string,std::string,std::string)' ya tiene un cuerpo
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(16): message : vea la definición anterior de '{ctor}'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(29,10): error C2084: la función 'Artista::Artista(void)' ya tiene un cuerpo
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(29): message : vea la definición anterior de '{ctor}'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(36,18): error C2084: la función 'std::string Artista::getNombre(void)' ya tiene un cuerpo
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(36): message : vea la definición anterior de 'getNombre'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(41,17): error C2084: la función 'std::string Artista::getProcedencia(void)' ya tiene un cuerpo
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(41): message : vea la definición anterior de 'getProcedencia'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(45,17): error C2084: la función 'Genero Artista::getGenero(void)' ya tiene un cuerpo
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(45): message : vea la definición anterior de 'getGenero'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(50,15): error C2084: la función 'void Artista::verInfo(void)' ya tiene un cuerpo
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(50): message : vea la definición anterior de 'verInfo'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(56,15): error C2084: la función 'void Artista::setNombre(std::string)' ya tiene un cuerpo
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(56): message : vea la definición anterior de 'setNombre'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(60,15): error C2084: la función 'void Artista::setProcedencia(std::string)' ya tiene un cuerpo
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(60): message : vea la definición anterior de 'setProcedencia'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(63,17): error C2084: la función 'std::string Artista::vergenero(void)' ya tiene un cuerpo
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(63): message : vea la definición anterior de 'vergenero'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(13,1): error C2264: 'Artista::Artista': error en la definición o declaración de función; no se ha llamado a la función
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(13,1): error C2665: 'cancion::cancion': ninguna de las 8 sobrecargas pudo convertir todos los tipos de argumento
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Cancion.h(22,2): message : puede ser 'cancion::cancion(std::string,int,int,Artista)'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(13,19): message : 'cancion::cancion(std::string,int,int,Artista)': el argumento 4 no puede convertirse de 'int' a 'Artista'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(13,1): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Cancion.h(22,2): message : vea la declaración de 'cancion::cancion'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(13,1): message : al hacer coincidir la lista de argumentos '(const char [14], int, int, int)'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(14,1): error C2264: 'Artista::Artista': error en la definición o declaración de función; no se ha llamado a la función
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(14,1): error C2665: 'cancion::cancion': ninguna de las 8 sobrecargas pudo convertir todos los tipos de argumento
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Cancion.h(22,2): message : puede ser 'cancion::cancion(std::string,int,int,Artista)'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(14,19): message : 'cancion::cancion(std::string,int,int,Artista)': el argumento 4 no puede convertirse de 'int' a 'Artista'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(14,1): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Cancion.h(22,2): message : vea la declaración de 'cancion::cancion'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(14,1): message : al hacer coincidir la lista de argumentos '(const char [4], int, int, int)'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(15,1): error C2264: 'Artista::Artista': error en la definición o declaración de función; no se ha llamado a la función
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(15,1): error C2665: 'cancion::cancion': ninguna de las 8 sobrecargas pudo convertir todos los tipos de argumento
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Cancion.h(22,2): message : puede ser 'cancion::cancion(std::string,int,int,Artista)'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(15,19): message : 'cancion::cancion(std::string,int,int,Artista)': el argumento 4 no puede convertirse de 'int' a 'Artista'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(15,1): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Cancion.h(22,2): message : vea la declaración de 'cancion::cancion'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(15,1): message : al hacer coincidir la lista de argumentos '(const char [5], int, int, int)'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(16,1): error C2264: 'Artista::Artista': error en la definición o declaración de función; no se ha llamado a la función
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(16,1): error C2665: 'cancion::cancion': ninguna de las 8 sobrecargas pudo convertir todos los tipos de argumento
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Cancion.h(22,2): message : puede ser 'cancion::cancion(std::string,int,int,Artista)'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(16,20): message : 'cancion::cancion(std::string,int,int,Artista)': el argumento 4 no puede convertirse de 'int' a 'Artista'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(16,1): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Cancion.h(22,2): message : vea la declaración de 'cancion::cancion'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(16,1): message : al hacer coincidir la lista de argumentos '(const char [5], int, int, int)'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(17,1): error C2264: 'Artista::Artista': error en la definición o declaración de función; no se ha llamado a la función
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(17,1): error C2665: 'cancion::cancion': ninguna de las 8 sobrecargas pudo convertir todos los tipos de argumento
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Cancion.h(22,2): message : puede ser 'cancion::cancion(std::string,int,int,Artista)'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(17,20): message : 'cancion::cancion(std::string,int,int,Artista)': el argumento 4 no puede convertirse de 'int' a 'Artista'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(17,1): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Cancion.h(22,2): message : vea la declaración de 'cancion::cancion'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(17,1): message : al hacer coincidir la lista de argumentos '(const char [5], int, int, int)'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(18,1): error C2264: 'Artista::Artista': error en la definición o declaración de función; no se ha llamado a la función
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(18,1): error C2665: 'cancion::cancion': ninguna de las 8 sobrecargas pudo convertir todos los tipos de argumento
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Cancion.h(22,2): message : puede ser 'cancion::cancion(std::string,int,int,Artista)'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(18,20): message : 'cancion::cancion(std::string,int,int,Artista)': el argumento 4 no puede convertirse de 'int' a 'Artista'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(18,1): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Cancion.h(22,2): message : vea la declaración de 'cancion::cancion'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(18,1): message : al hacer coincidir la lista de argumentos '(const char [6], int, int, int)'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(19,1): error C2264: 'Artista::Artista': error en la definición o declaración de función; no se ha llamado a la función
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(19,1): error C2665: 'cancion::cancion': ninguna de las 8 sobrecargas pudo convertir todos los tipos de argumento
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Cancion.h(22,2): message : puede ser 'cancion::cancion(std::string,int,int,Artista)'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(19,20): message : 'cancion::cancion(std::string,int,int,Artista)': el argumento 4 no puede convertirse de 'int' a 'Artista'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(19,1): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Cancion.h(22,2): message : vea la declaración de 'cancion::cancion'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(19,1): message : al hacer coincidir la lista de argumentos '(const char [3], int, int, int)'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(20,1): error C2264: 'Artista::Artista': error en la definición o declaración de función; no se ha llamado a la función
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(20,1): error C2665: 'cancion::cancion': ninguna de las 8 sobrecargas pudo convertir todos los tipos de argumento
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Cancion.h(22,2): message : puede ser 'cancion::cancion(std::string,int,int,Artista)'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(20,20): message : 'cancion::cancion(std::string,int,int,Artista)': el argumento 4 no puede convertirse de 'int' a 'Artista'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(20,1): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Cancion.h(22,2): message : vea la declaración de 'cancion::cancion'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(20,1): message : al hacer coincidir la lista de argumentos '(const char [8], int, int, int)'
+  RockolaManager.cpp
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(5,10): error C2084: la función 'Artista::Artista(std::string,std::string,Genero)' ya tiene un cuerpo
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(5): message : vea la definición anterior de '{ctor}'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(11,10): error C2084: la función 'Artista::Artista(std::string,std::string)' ya tiene un cuerpo
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(11): message : vea la definición anterior de '{ctor}'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(16,10): error C2084: la función 'Artista::Artista(std::string,std::string,std::string)' ya tiene un cuerpo
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(16): message : vea la definición anterior de '{ctor}'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(29,10): error C2084: la función 'Artista::Artista(void)' ya tiene un cuerpo
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(29): message : vea la definición anterior de '{ctor}'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(36,18): error C2084: la función 'std::string Artista::getNombre(void)' ya tiene un cuerpo
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(36): message : vea la definición anterior de 'getNombre'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(41,17): error C2084: la función 'std::string Artista::getProcedencia(void)' ya tiene un cuerpo
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(41): message : vea la definición anterior de 'getProcedencia'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(45,17): error C2084: la función 'Genero Artista::getGenero(void)' ya tiene un cuerpo
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(45): message : vea la definición anterior de 'getGenero'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(50,15): error C2084: la función 'void Artista::verInfo(void)' ya tiene un cuerpo
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(50): message : vea la definición anterior de 'verInfo'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(56,15): error C2084: la función 'void Artista::setNombre(std::string)' ya tiene un cuerpo
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(56): message : vea la definición anterior de 'setNombre'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(60,15): error C2084: la función 'void Artista::setProcedencia(std::string)' ya tiene un cuerpo
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(60): message : vea la definición anterior de 'setProcedencia'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(63,17): error C2084: la función 'std::string Artista::vergenero(void)' ya tiene un cuerpo
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(63): message : vea la definición anterior de 'vergenero'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\ArtistaManejadorDatosArchivo.cpp(39,1): error C2264: 'Artista::Artista': error en la definición o declaración de función; no se ha llamado a la función
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(5,10): error C2084: la función 'Artista::Artista(std::string,std::string,Genero)' ya tiene un cuerpo
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(5): message : vea la definición anterior de '{ctor}'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(11,10): error C2084: la función 'Artista::Artista(std::string,std::string)' ya tiene un cuerpo
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(11): message : vea la definición anterior de '{ctor}'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(16,10): error C2084: la función 'Artista::Artista(std::string,std::string,std::string)' ya tiene un cuerpo
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(16): message : vea la definición anterior de '{ctor}'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(29,10): error C2084: la función 'Artista::Artista(void)' ya tiene un cuerpo
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(29): message : vea la definición anterior de '{ctor}'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(36,18): error C2084: la función 'std::string Artista::getNombre(void)' ya tiene un cuerpo
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(36): message : vea la definición anterior de 'getNombre'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(41,17): error C2084: la función 'std::string Artista::getProcedencia(void)' ya tiene un cuerpo
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(41): message : vea la definición anterior de 'getProcedencia'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(45,17): error C2084: la función 'Genero Artista::getGenero(void)' ya tiene un cuerpo
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(45): message : vea la definición anterior de 'getGenero'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(50,15): error C2084: la función 'void Artista::verInfo(void)' ya tiene un cuerpo
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(50): message : vea la definición anterior de 'verInfo'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(56,15): error C2084: la función 'void Artista::setNombre(std::string)' ya tiene un cuerpo
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(56): message : vea la definición anterior de 'setNombre'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(60,15): error C2084: la función 'void Artista::setProcedencia(std::string)' ya tiene un cuerpo
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(60): message : vea la definición anterior de 'setProcedencia'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(63,17): error C2084: la función 'std::string Artista::vergenero(void)' ya tiene un cuerpo
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Artista.cpp(63): message : vea la definición anterior de 'vergenero'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(13,1): error C2264: 'Artista::Artista': error en la definición o declaración de función; no se ha llamado a la función
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(13,1): error C2665: 'cancion::cancion': ninguna de las 8 sobrecargas pudo convertir todos los tipos de argumento
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Cancion.h(22,2): message : puede ser 'cancion::cancion(std::string,int,int,Artista)'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(13,19): message : 'cancion::cancion(std::string,int,int,Artista)': el argumento 4 no puede convertirse de 'int' a 'Artista'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(13,1): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Cancion.h(22,2): message : vea la declaración de 'cancion::cancion'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(13,1): message : al hacer coincidir la lista de argumentos '(const char [14], int, int, int)'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(14,1): error C2264: 'Artista::Artista': error en la definición o declaración de función; no se ha llamado a la función
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(14,1): error C2665: 'cancion::cancion': ninguna de las 8 sobrecargas pudo convertir todos los tipos de argumento
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Cancion.h(22,2): message : puede ser 'cancion::cancion(std::string,int,int,Artista)'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(14,19): message : 'cancion::cancion(std::string,int,int,Artista)': el argumento 4 no puede convertirse de 'int' a 'Artista'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(14,1): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Cancion.h(22,2): message : vea la declaración de 'cancion::cancion'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(14,1): message : al hacer coincidir la lista de argumentos '(const char [4], int, int, int)'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(15,1): error C2264: 'Artista::Artista': error en la definición o declaración de función; no se ha llamado a la función
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(15,1): error C2665: 'cancion::cancion': ninguna de las 8 sobrecargas pudo convertir todos los tipos de argumento
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Cancion.h(22,2): message : puede ser 'cancion::cancion(std::string,int,int,Artista)'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(15,19): message : 'cancion::cancion(std::string,int,int,Artista)': el argumento 4 no puede convertirse de 'int' a 'Artista'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(15,1): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Cancion.h(22,2): message : vea la declaración de 'cancion::cancion'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(15,1): message : al hacer coincidir la lista de argumentos '(const char [5], int, int, int)'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(16,1): error C2264: 'Artista::Artista': error en la definición o declaración de función; no se ha llamado a la función
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(16,1): error C2665: 'cancion::cancion': ninguna de las 8 sobrecargas pudo convertir todos los tipos de argumento
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Cancion.h(22,2): message : puede ser 'cancion::cancion(std::string,int,int,Artista)'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(16,20): message : 'cancion::cancion(std::string,int,int,Artista)': el argumento 4 no puede convertirse de 'int' a 'Artista'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(16,1): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Cancion.h(22,2): message : vea la declaración de 'cancion::cancion'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(16,1): message : al hacer coincidir la lista de argumentos '(const char [5], int, int, int)'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(17,1): error C2264: 'Artista::Artista': error en la definición o declaración de función; no se ha llamado a la función
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(17,1): error C2665: 'cancion::cancion': ninguna de las 8 sobrecargas pudo convertir todos los tipos de argumento
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Cancion.h(22,2): message : puede ser 'cancion::cancion(std::string,int,int,Artista)'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(17,20): message : 'cancion::cancion(std::string,int,int,Artista)': el argumento 4 no puede convertirse de 'int' a 'Artista'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(17,1): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Cancion.h(22,2): message : vea la declaración de 'cancion::cancion'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(17,1): message : al hacer coincidir la lista de argumentos '(const char [5], int, int, int)'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(18,1): error C2264: 'Artista::Artista': error en la definición o declaración de función; no se ha llamado a la función
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(18,1): error C2665: 'cancion::cancion': ninguna de las 8 sobrecargas pudo convertir todos los tipos de argumento
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Cancion.h(22,2): message : puede ser 'cancion::cancion(std::string,int,int,Artista)'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(18,20): message : 'cancion::cancion(std::string,int,int,Artista)': el argumento 4 no puede convertirse de 'int' a 'Artista'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(18,1): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Cancion.h(22,2): message : vea la declaración de 'cancion::cancion'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(18,1): message : al hacer coincidir la lista de argumentos '(const char [6], int, int, int)'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(19,1): error C2264: 'Artista::Artista': error en la definición o declaración de función; no se ha llamado a la función
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(19,1): error C2665: 'cancion::cancion': ninguna de las 8 sobrecargas pudo convertir todos los tipos de argumento
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Cancion.h(22,2): message : puede ser 'cancion::cancion(std::string,int,int,Artista)'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(19,20): message : 'cancion::cancion(std::string,int,int,Artista)': el argumento 4 no puede convertirse de 'int' a 'Artista'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(19,1): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Cancion.h(22,2): message : vea la declaración de 'cancion::cancion'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(19,1): message : al hacer coincidir la lista de argumentos '(const char [3], int, int, int)'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(20,1): error C2264: 'Artista::Artista': error en la definición o declaración de función; no se ha llamado a la función
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(20,1): error C2665: 'cancion::cancion': ninguna de las 8 sobrecargas pudo convertir todos los tipos de argumento
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Cancion.h(22,2): message : puede ser 'cancion::cancion(std::string,int,int,Artista)'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(20,20): message : 'cancion::cancion(std::string,int,int,Artista)': el argumento 4 no puede convertirse de 'int' a 'Artista'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(20,1): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\Cancion.h(22,2): message : vea la declaración de 'cancion::cancion'
+C:\Users\HP\source\repos\lab1204\lab1204\Musicas\Musicas\CancionManejadorDatosEstaticos.cpp(20,1): message : al hacer coincidir la lista de argumentos '(const char [8], int, int, int)'
